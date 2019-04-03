@@ -1,0 +1,5 @@
+nav {
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    justify-content: space-around;
+}
