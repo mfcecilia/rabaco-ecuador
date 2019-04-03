@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -11,23 +15,26 @@ nav {
     font-size: 1.2em;
 }
 
-a {
+nav a {
     text-decoration: none;
+    color: #312783;
 }
 
 /* unvisited link */
-a:link {
-  text-decoration: none;
+nav a:link {
+    text-decoration: none;
+    color: #312783;
 }
 
 /* visited link */
-a:visited {
-  text-decoration: none;
+nav a:visited {
+    text-decoration: none;
+    color: #312783;
 }
 
 /* mouse over link */
-a:hover {
-  text-decoration: none;
+nav a:hover {
+    text-decoration: none;
 }
 
 /* selected link */
@@ -55,10 +62,6 @@ header hr {
     width: 100%;
 }
 
-.fas fa-landmark {
-    max-width: 30%;
-}
-
 section div {
     margin: 3%;
 }
@@ -75,11 +78,32 @@ section div {
     font-family: 'Raleway', sans-serif;
 }
 
+#inicio div {
+    max-width: 30%;
+    min-width: 25%;
+}
+
 #nuestros-servicios {
     text-align: center;
     font-size: 1.2em;
     font-family: 'Roboto Slab', serif;
     line-height: 200%;
+}
+
+#nuestros-servicios ul {
+    font-family: 'Raleway', sans-serif;
+}
+
+#afiliaciones {
+    
+}
+
+#afiliaciones img {
+    max-width: 20%;
+}
+
+#afiliaciones ul {
+    font-family: 'Raleway', sans-serif;
 }
 
 #contacto {
