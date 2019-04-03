@@ -55,6 +55,10 @@ header hr {
     width: 100%;
 }
 
+.fas fa-landmark {
+    max-width: 30%;
+}
+
 section div {
     margin: 3%;
 }
