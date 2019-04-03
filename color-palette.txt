@@ -1,0 +1,3 @@
+wing-dark: #e94e1b
+wing-light: #f49d72
+R: #312783
