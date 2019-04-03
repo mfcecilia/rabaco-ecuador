@@ -2,4 +2,11 @@ nav {
     font-family: 'Roboto Slab', serif;
     display: flex;
     justify-content: space-around;
+    color: #312783;
+    line-height: 200%;
+    font-size: 1.2em;
+}
+
+hr {
+    border: 1px solid #312783;
 }
