@@ -1,3 +1,5 @@
 wing-dark: #e94e1b
 wing-light: #f49d72
 R: #312783
+ecuador: #1d70b8
+agente: #2d2e83
