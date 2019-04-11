@@ -143,6 +143,19 @@ section div {
 
 #afiliaciones div {
     font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+#afiliaciones h3 {
+    font-family: 'IM Fell French Canon', serif;
+    text-align: center;
+    color: #312783;
+}
+
+#afiliaciones i {
+    color: #f49d72;
 }
 
 #afiliaciones img {
