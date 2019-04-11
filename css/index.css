@@ -175,6 +175,14 @@ section div {
     font-family: 'Open Sans', sans-serif;
     color: #7A7A7C;
     font-size: .8em;
+    max-width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+#afiliaciones hr {
+    width: 80%;
+    border: 1px solid #f49d72;
 }
 
 #contacto {
