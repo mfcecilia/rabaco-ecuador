@@ -128,7 +128,7 @@ section div {
 #nuestros-servicios ul {
     font-family: 'Open Sans', sans-serif;
     font-size: .8em;
-    color: #7A7A7C;
+    color: #3a6ea5;
 }
 
 #nuestros-servicios p {
@@ -158,4 +158,14 @@ section div {
     font-size: 1.2em;
     font-family: 'Open Sans', sans-serif;
     line-height: 200%;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
 }
