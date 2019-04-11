@@ -160,6 +160,13 @@ section div {
     line-height: 200%;
 }
 
+.gif {
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
 footer {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
