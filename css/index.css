@@ -7,7 +7,7 @@ html {
 }
 
 nav {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'IM Fell French Canon', serif;
     display: flex;
     justify-content: space-around;
     color: #312783;
@@ -57,7 +57,7 @@ header {
 }
 
 header img {
-    max-width: 80%;
+    max-width: 35%;
     
 }
 
@@ -75,11 +75,11 @@ section div {
     display: flex;
     flex-direction: row;
     text-align: center;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'IM Fell French Canon', serif;
 }
 
 #inicio p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #inicio div {
@@ -90,16 +90,16 @@ section div {
 #nuestros-servicios {
     text-align: center;
     font-size: 1.2em;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Open Sans', sans-serif;
     line-height: 200%;
 }
 
 #nuestros-servicios ul {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #afiliaciones div {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #afiliaciones img {
@@ -107,12 +107,12 @@ section div {
 }
 
 #afiliaciones ul {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'IM Fell French Canon', serif;
 }
 
 #contacto {
     text-align: center;
     font-size: 1.2em;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Open Sans', sans-serif;
     line-height: 200%;
 }
