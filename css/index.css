@@ -158,12 +158,23 @@ section div {
     color: #f49d72;
 }
 
+#afiliaciones h5 {
+    text-align: center;
+    color: #312783;
+}
+
 #afiliaciones img {
     max-width: 20%;
 }
 
 #afiliaciones ul {
     font-family: 'IM Fell French Canon', serif;
+}
+
+#afiliaciones p {
+    font-family: 'Open Sans', sans-serif;
+    color: #7A7A7C;
+    font-size: .8em;
 }
 
 #contacto {
