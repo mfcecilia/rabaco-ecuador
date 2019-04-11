@@ -84,6 +84,7 @@ section div {
 
 #inicio h3 {
     color: #312783;
+    font-size: 1.5em;
 }
 
 #inicio i {
@@ -103,12 +104,12 @@ section div {
 
 #nuestros-servicios {
     text-align: center;
-    font-size: 1.2em;
     font-family: 'IM Fell French Canon', serif;
 }
 
 #nuestros-servicios h3 {
     color: #312783;
+    font-size: 1.5em;
 }
 
 #nuestros-servicios i {
@@ -141,6 +142,7 @@ section div {
     border: 1px solid #f49d72;
 }
 
+
 #afiliaciones div {
     font-family: 'Open Sans', sans-serif;
     display: flex;
@@ -152,6 +154,7 @@ section div {
     font-family: 'IM Fell French Canon', serif;
     text-align: center;
     color: #312783;
+    font-size: 1.5em;
 }
 
 #afiliaciones i {
@@ -165,6 +168,8 @@ section div {
 
 #afiliaciones img {
     max-width: 20%;
+    display: block;
+    margin: auto;
 }
 
 #afiliaciones ul {
@@ -187,9 +192,37 @@ section div {
 
 #contacto {
     text-align: center;
-    font-size: 1.2em;
     font-family: 'Open Sans', sans-serif;
-    line-height: 200%;
+}
+
+#contacto h3 {
+    font-family: 'IM Fell French Canon', serif;
+    text-align: center;
+    color: #312783;
+    font-size: 1.5em;
+}
+
+#contacto i {
+    color: #f49d72;
+}
+
+#contacto p {
+    font-family: 'Open Sans', sans-serif;
+    color: #7A7A7C;
+    font-size: .8em;
+    max-width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+#contacto a {
+    text-decoration: none;
+    color: #7A7A7C;
+}
+
+#contacto hr {
+    width: 80%;
+    border: 1px solid #f49d72;
 }
 
 .gif {
@@ -207,4 +240,8 @@ footer {
 footer a {
     text-decoration: none;
     color: black;
+}
+
+footer img {
+    max-width: 2%;
 }
