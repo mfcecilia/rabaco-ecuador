@@ -6,6 +6,10 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    margin: 0;
+}
+
 nav {
     font-family: 'IM Fell French Canon', serif;
     display: flex;
@@ -13,6 +17,8 @@ nav {
     color: #312783;
     line-height: 200%;
     font-size: 1.2em;
+    width: 100%;
+    border-bottom: 2px solid #312783;
 }
 
 nav div {
@@ -46,14 +52,12 @@ a:active {
   text-decoration: none;
 }
 
-hr {
-    border: 1px solid #312783;
-}
 
 header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 header img {
@@ -78,9 +82,18 @@ section div {
     font-family: 'IM Fell French Canon', serif;
 }
 
+#inicio h3 {
+    color: #312783;
+}
+
+#inicio i {
+    color: #f49d72;
+}
+
 #inicio p {
     font-family: 'Open Sans', sans-serif;
     font-size: .8em;
+    color: #7A7A7C;
 }
 
 #inicio div {
@@ -105,6 +118,7 @@ section div {
 
 #nuestros-servicios hr {
     width: 80%;
+    border: 1px solid #f49d72;
 }
 
 #afiliaciones div {
