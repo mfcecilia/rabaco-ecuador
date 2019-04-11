@@ -107,13 +107,33 @@ section div {
     font-family: 'IM Fell French Canon', serif;
 }
 
+#nuestros-servicios h3 {
+    color: #312783;
+}
+
+#nuestros-servicios i {
+    color: #f49d72;
+}
+
+.services-list {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #f49d72;
+    border-radius: 10px;
+    max-width: 70%;
+    justify-content: center;
+    margin: auto;
+}
+
 #nuestros-servicios ul {
     font-family: 'Open Sans', sans-serif;
     font-size: .8em;
+    color: #7A7A7C;
 }
 
 #nuestros-servicios p {
     font-size: .8em;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #nuestros-servicios hr {
